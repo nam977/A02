@@ -2,7 +2,7 @@
 
 Bold each of the Glossary words as you use them. Bold ONLY the glossary word.
 
-Branch - Copied code omitted in production that's repurposed to create new code that dosen't interfere with code found in the main branch.
+Branch - Copied code omitted in production that's repurposed to create new code that doesn't interfere with code found in the main branch.
 
 Clone - Makes a copy of a specific Github repository and downloads the code onto your local computer.
 
